@@ -1,18 +1,5 @@
 # Weather Application
 
-COMPANY : CODTECH IT SOLUTIONS PRIVATE LIMITED
-
-NAME : PRADIP VISHWAS KHAIRNAR
-
-ITERN ID : CTIS2857
-
-DOMAIN : MERN STACK WEB DEVELOPMENT
-
-DURATION : 4 WEEKS
-
-MENTOR : NEELA SANTOSH
-
-
 About the Project:- 
 The Weather Web Application is a full-stack project developed using the MERN stack principles with a React frontend and Node.js/Express backend. This application allows users to check real-time weather conditions for any city worldwide as well as fetch weather data automatically based on the user's current geographic location.
 
